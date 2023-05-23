@@ -32,7 +32,7 @@ https://github.com/hexfa/ComposeApp
 - [Material Components][material]
 
 ## Screenshot 📱
-<img src="https://github.com/hexfa/screenshots/raw/main/Compose%20App/Screenshot.png" height="649" width="300">
+<img src="https://github.com/hexfa/Files/raw/main/Compose%20App/Screenshot.png" height="649" width="300">
 
 ## Additional 🧰
 #### ***Note***
