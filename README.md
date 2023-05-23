@@ -14,7 +14,7 @@ In summary, this project is an excellent resource for anyone interested in learn
 
 Clone this repository and import it into your **Android IDE**
 ```bash
-https://github.com/hexfa/compose-app
+https://github.com/hexfa/ComposeApp
 ```
 
 ## Resources ℹ️
